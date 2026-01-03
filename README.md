@@ -4,7 +4,7 @@
 ### Simple Product Layout Using CSS Flexbox
 
 <!-- Preview Image -->
-<img src="./assets/preview.png" alt="Project Preview" width="80%" />
+<img src="images/logo.png" alt="Project Preview" width="80%" />
 
 <br/><br/>
 
